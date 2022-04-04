@@ -1,0 +1,19 @@
+.calculate {
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 250px;
+}
+
+.sub-Title {
+    font-size: 20px;
+    color: grey;
+}
+
+.main-Title {
+    font-size: 60px;
+    color: rgb(255, 100, 100);
+    margin: 0px;
+}

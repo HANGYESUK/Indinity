@@ -1,0 +1,13 @@
+.icon-Container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.icon-Container img {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
